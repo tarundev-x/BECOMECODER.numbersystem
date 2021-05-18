@@ -1,2 +1,1 @@
-# numbersystem
-prime or not
+
